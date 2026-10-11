@@ -1,5 +1,8 @@
 # TinyJevClient
 
+> [!IMPORTANT]
+> This codebase is now a part of tinyinference https://github.com/tinyhumansai/tinyinference/tree/main/crates/tinyinference-decisions This repo is not being maintained anymore
+
 `tinyjevclient` is a typed Rust client for TypeSafe AI's System One API and
 Jev model. It sends shared state with independent Choice, Score, and Noul
 questions, validates the provider's response against the originating request,
